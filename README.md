@@ -9,8 +9,8 @@ Follow the steps to install reshade, on a game of your choice. Copy the contents
 
 Example C:\Program Files (x86)\Steam\SteamApps\common\Resident Evil 7 - Biohazard\reshade-shaders
 
-Compatible with almost every game where reshade Depth detection works...
+Compatible with almost every game where reshade depth detection works...
 
 The reshade-shaders folder location can be changed by editing "TextureSearchPaths=" ; "EffectSearchPaths=" in the ReShade.ini [gamefolder\ReShade.ini]
 
-Developed by martymcmodding; he misunderstood Creative Common's licensing. He was breaking licensing distributing this as a commercial software. He claims third party distribution to be piracy when the CC license permits Sharing. The CC licensing does not permit derivitives. Though as he broke the terms of licensing perhaps derivitives would be allowed[?]
+Developed by martymcmodding; he misunderstood Creative Common's licensing. He claims third party distribution to be piracy when the CC license permits Sharing. The CC licensing does not permit derivitives.
