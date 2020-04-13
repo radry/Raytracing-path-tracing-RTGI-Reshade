@@ -8,6 +8,8 @@
    		patreon.com/mcflypg
 
     Path Traced Global Illumination 
+    
+    Version 0.8.0.2
 
     by Marty McFly / P.Gilcher
     part of qUINT shader library for ReShade 4
