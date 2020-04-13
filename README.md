@@ -3,6 +3,8 @@ Ray Traced Global Illumination Shaders For Reshade
 
 Version: 0.8.0.2
 
+For the latest version, please join the Patreon: patreon.com/mcflypg
+
 License: Free to share, no derivatives [do not edit]. 
 
 This is a set of shaders/textures that require reshade. https://reshade.me/
